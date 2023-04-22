@@ -18,6 +18,9 @@ const Header: React.FC<HeaderProps> = ({
         <div className="
             border-b[1px] border-neutral-800 p-5
         ">
+            <div>
+                
+            </div>
             {label}
         </div>
     );
